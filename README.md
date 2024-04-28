@@ -36,5 +36,5 @@ You can view the latest C/C++ Linter GitHub Action status and Tokei code statist
 
 ## Contributing
 
-If you would like to contribute to this project, please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
+If you would like to contribute to this project and comments, please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
 
