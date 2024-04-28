@@ -7,7 +7,15 @@ This is a C/C++ project that uses the C/C++ Linter GitHub Action and the Tokei t
 
 ## About the Project
 
-This project is a C/C++ application that does [This shows the sort we use Bubble Sort, Insertion Sort, Selection Sort, Quick Sort and Merge Sort].
+This project is a C/C++ application that does:
+shows the sort we use:
+<ol>
+  <li>Bubble Sort</li>
+  <li>Insertion Sort </li>
+  <li>Selection Sort</li>
+  <li>Quick Sort </li>
+  <li>Merge Sort</li>
+</ol>
 
 ## Building and Running
 
